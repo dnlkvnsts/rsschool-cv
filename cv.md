@@ -1,5 +1,6 @@
 # rsschool-cv
 # Anastasiya Danilkova
+# Front-end web developer 
 # My contact info
 + Phone: +375 44 772-6222
 + Telegram @dnlkv_nsts
@@ -26,9 +27,15 @@ public class CustomMath {
 ```
 # Education 
 + University: Belarusian State University of Informatics and Radioelectronics
-  + Student of 2 course
-+ Course:
-  + Stepic c++
- 
+  + Faculty of Computer Systems and Networks   Major: Informatics and Programming Technologies
+# Course:
+  + Stepic  Course Computer Science with Basic C++
+# Languages
++ English
+  + A2
++ Spanish
+   + A1
++ French
+  + A1
 
 
